@@ -1,4 +1,6 @@
 # OLX UI Automation Lab 2
+[[Завантажити повний звіт у PDF]](./reports/zvit_lab2.pdf) I
+[[Результати успішних тестів]](./screenshots/terminal_results.jpg)
 
 ##  Мета роботи
 Отримання практичних навичок з автоматизації UI-тестів за допомогою Selenium WebDriver та реалізація патерну Page Object Model (POM).
