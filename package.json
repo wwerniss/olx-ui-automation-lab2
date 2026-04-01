@@ -1,0 +1,11 @@
+{
+  "name": "olx-ui-automation-lab2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha tests/*.test.js --timeout 120000"
+  },
+  "dependencies": {
+    "mocha": "^11.7.5",
+    "selenium-webdriver": "^4.41.0"
+  }
+}
